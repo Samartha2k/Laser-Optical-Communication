@@ -1,7 +1,15 @@
 # 🔦 Laser Optical Communication System
 > Wireless text transmission over a laser beam using Arduino — no Wi-Fi, no Bluetooth, just light.
 
-**By Samarth Agrawal & Shaunak Joshi**
+**By Samarth Agrawal & Shaunak Joshi** | CBSE National Science Exhibition Project
+
+📹 **[Watch it in action →](https://www.youtube.com/watch?v=KCGh8jzGKMA)**
+
+---
+
+## 📹 Demo
+
+[![Watch the demo](https://img.youtube.com/vi/KCGh8jzGKMA/0.jpg)](https://www.youtube.com/watch?v=KCGh8jzGKMA)
 
 ---
 
@@ -40,6 +48,9 @@ laser-optical-communication/
 │   └── new_reciever_optical_communication.ino
 ├── utils/
 │   └── threshold_checking_code.ino
+├── assets/
+│   ├── circuit_transmitter.png
+│   └── circuit_receiver.png
 └── README.md
 ```
 
@@ -85,6 +96,16 @@ Wave your hand in front of the IR sensor to clear the LCD and reset the decoded 
 | I2C LCD SCL | A5 |
 | I2C LCD VCC | 5V |
 | I2C LCD GND | GND |
+
+### Circuit Diagrams
+
+**Transmitter**
+
+![Transmitter Circuit](Assets/Transmitter.png)
+
+**Receiver**
+
+![Receiver Circuit](Assets/Reciever.png)
 
 ---
 
@@ -158,9 +179,3 @@ Light travels at **300,000,000 m/s** — the fastest phenomenon in the universe.
 ## 📜 License
 
 MIT License — free to use, modify, and build upon. Attribution appreciated!
-
----
-
-## 🙌 Acknowledgements
-
-Built for the **CBSE National Science Exhibition**. Inspired by the growing field of free-space optical communication and its role in next-generation space missions.
