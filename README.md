@@ -1,7 +1,7 @@
 # 🔦 Laser Optical Communication System
 > Wireless text transmission over a laser beam using Arduino — no Wi-Fi, no Bluetooth, just light.
 
-**By Samarth Agrawal & Shaunak Joshi** | CBSE National Science Exhibition Project
+**By Samarth Agrawal & Shaunak Joshi**
 
 ---
 
